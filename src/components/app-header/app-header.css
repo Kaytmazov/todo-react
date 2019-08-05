@@ -1,0 +1,10 @@
+.app-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-bottom: 1.5rem;
+}
+
+.app-header h1 {
+  margin-bottom: 0;
+}
